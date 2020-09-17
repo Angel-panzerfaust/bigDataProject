@@ -1,0 +1,4 @@
+# este archivo es para ignorar commit de unos archivos
+
+//*.cpp
+
