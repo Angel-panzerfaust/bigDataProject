@@ -2,5 +2,5 @@
 
 void main()
 {
-	printf("Arnold Swartzenegger");
+	printf("Arnold Swartzenegger aka the terminator");
 }
